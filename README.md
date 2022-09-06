@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @FM1101101
-- 👀 I’m interested in Git
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on HVAC Engineering
+- 👋 Hi, my name is **Fuad Muhammad**
+- 👷🏽 I am an HVAC Engineer based in Indonesia
+- 👀 I am interested in Science & Technology
+- 🌱 I am currently learning HVAC Instrument & Controls
+- 💞️ I am looking to collaborate on HVAC Engineering
 - 📫 Reach me on FM1101101.github.io
 
 <!---
